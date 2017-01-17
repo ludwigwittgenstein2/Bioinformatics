@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #Mass Spec Prototype v.0.1
-#Rick Rejeleene
+#Rick 
 #problems so far - Isoleucine, Leucine having same formula
 #How to declare aminoacids in a single letter when there is Glutamine & Glycine with the same letters
 #Need to find a way to find possible masses
